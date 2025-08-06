@@ -4,78 +4,81 @@
     "DeveloperMode": false,
     "autoCreateDB": true,
     "allowInbox": true,
-    "autoClean": false,
-    "adminOnly": false,
+    "autoClean": true,
+    "adminOnly": true,
     "keyAdminOnly": "",
     "commandDisabled": [
         "",
+        "",
+        "",
+        "",
         ""
     ],
-    "eventDisabled": [],
-    "EMAIL": "",
+    "eventDisabled": [
+        "",
+        ""
+    ],
+    "BOTOWNER": "†『 ⸙ †ĸɩŋʛ ʋʑʌɩʀ.𝐱͜͡ᴆ 』†",
+    "OWNERLINK": "https://www.facebook.com/profile.php?id=61552682190483",
+    "OWNERID": "61552682190483",
+    "BOTCREATOR": "†『 ⸙ †ĸɩŋʛ ʋʑʌɩʀ.𝐱͜͡ᴆ 』†",
+    "APIKEY": "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",
+    "openai": "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",
+    "CREATORLINK": "https://www.facebook.com/profile.php?id=61552682190483",
+    "PERMISSION1": [
+        "61552682190483",
+        "",
+        "",
+        ""
+    ],
+    "RestartEvery": 30,
+    "ONLY": [
+        "61552682190483",
+        "",
+        ""
+    ],
     "PASSWORD": "",
-    "OTPKEY": "",
-    "BOTNAME": "✦𝐁𝐎𝐓 𝐉𝐀𝐍𝐔 𝐏𝐑𝐎𝐉𝐄𝐂𝐓✦",
+    "autoaccept": "true",
+    "BOTNAME": "➺ 𓆩『 ⸙   ᴅᴇᴡᴀɴɪ ᴛᴇʀɪ.𝐱͜͡ᴆ  』𓆪",
     "PREFIX": ".",
-    "OTHERBOT": [
-        ""
-    ],
-    "UNSENTVIP": [
-        "100016828397863",
-        "61558005913380",
+    "ADMINBOT": [
+        "61552682190483",
+        "100047059713717",
+        "100010054632516",
+        "100086716792385",
+        "100085739395197",
+        "61552682190483",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
         "",
         "",
         ""
     ],
     "GOD": [
-        "100016828397863",
-        "61558005913380",
-        ""
+        "61552682190483"
     ],
-    "ADMINBOT": [
-        "100016828397863",
-        "61558005913380",
-        "",
-        "",
-        "",
-        "",
-        ""
-    ],
-    "OWNER": "◉❖HAMZAALI❖◉",
-    "AGE": "21",
-    "GENDER": "𝗠𝗮𝗟𝗲",
-    "FACEBOOK": "https://www.facebook.com/profile.php?id=61573328623221",
-    "AutoOffBot": "disable",
-    "AutoOffBotStartSleep": "disable",
-    "AutoOffBotSendMessage": "Bye everyone. i need to sleep i'll be right back at 5:00AM 🥰",
-    "AutoOffBotEndSleep": "disable",
-    "AutoGreet": "disable",
-    "AutoGreetWithSticker": "enable",
-    "AutoGreetSendPerHour": "1",
-    "AutoPost": "disable",
-    "AutoPostText": "༻𝐎𝐖𝐍𝐄𝐑:- ☞𝗛𝗔𝗠𝗭𝗔𝗟 𝗔𝗟𝗜☜ ༺ ༒𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 〠𝗛𝗔𝗠𝗭𝗜〠.༒ ༒𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝༒:- ☞ 61558005913380 ☜",
-    "AutoPostPerHour": "1",
-    "AutoPostGreet": "disable",
-    "AutoPostGreetPostPerHour": "6",
-    "AutoPostChristmasCountdown": "disable",
-    "HolidayAutoGreet": "disable",
-    "ChristmasCountdown": "disable",
-    "AcceptFriendRequest": "accept",
-    "AutoPendingGroupChat": "accept",
-    "AutoBioStatus": "enable",
-    "AutoBioStatusSetPerHour": "1",
-    "BioStatus": "༻𝐎𝐖𝐍𝐄𝐑:- ☞𝗛𝗔𝗠𝗭𝗔𝗟 𝗔𝗟𝗜☜ ༺ ༒𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 〠𝗛𝗔𝗠𝗭𝗜〠.༒ ༒𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝༒:- ☞ https://www.facebook.com/profile.php?id=61558005913380☜",
-    "AutoLeave": "enable",
-    "RandomRedditMemes": "enable",
-    "RandomRedditMemesSendPerHour": "1",
-    "Randombibleverse": "disable",
-    "Uptimelogs": true,
     "DATABASE": {
         "sqlite": {
             "storage": "data.sqlite"
         }
     },
-    "APPSTATEPATH": "appstate.json",
+    "APPSTATEPATH": "𝑴𝒓𝑼𝒛𝒂𝒊𝒓𝑿𝒙𝑿-𝑴𝑻𝑿.json",
     "FCAOption": {
         "forceLogin": true,
         "listenEvents": true,
@@ -85,10 +88,6 @@
         "userAgent": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 OPR/84.0.4316.21"
     },
     "version": "1.2.14",
-    "help": {
-        "autoUnsend": "",
-        "delayUnsend": 60
-    },
     "adminUpdate": {
         "autoUnsend": true,
         "sendNoti": true,
@@ -105,7 +104,7 @@
         "cooldownTime": 1200000
     },
     "youtube-video": {
-        "YOUTUBE_API": "AIzaSyAV1Ob0n_87tZSmCMorTGE-jHVrAvnXcIM"
+        "MrUzairXxX": "AIzaSyC6kH1Zl6mJ20KXr2AsPC_wF2IHEFuioxo"
     },
     "linkword": {
         "APIKEY": ""
@@ -139,6 +138,9 @@
     "weather": {
         "OPEN_WEATHER": "b7f1db5959a1f5b2a079912b03f0cd96"
     },
+    "shoti": {
+        "APIKEY": "shoti-1h7074rjh540vfka5k8"
+    },
     "simsimi": {
         "APIKEY": "Meew_Ov8SwxqVjUMUJafvxWAsdeac7YAUnr"
     },
@@ -150,7 +152,7 @@
     },
     "daily": {
         "cooldownTime": 43200000,
-        "rewardCoin": 19310000
+        "rewardCoin": 10000000000
     },
     "manslap": {
         "APIKEY": "Meew_Ov8SwxqVjUMUJafvxWAsdeac7YAUnr"
@@ -191,13 +193,114 @@
         "autoUnsend": true,
         "delayUnsend": 300
     },
-    "god": {
-        "enable": true
+    "sim2": {
+        "APIKEY": "Meew_xVZVZ6g5i7Zz0TJyhTkDueNKlaoiOR"
     },
     "bannerbw": {
         "APIKEY": "ntkhang"
     },
-    "messageforrealcreator": {
+    "caesar": {
+        "caeserPassword": "266303"
+    },
+    "diemdanh": {
+        "cooldownTime": 3000000
+    },
+    "hitbutt": {
+        "APIKEY": ""
+    },
+    "hunter": {
+        "userToken": "D7tTFhgD",
+        "adminToken": "ZkSy3UsT"
+    },
+    "img": {
+        "APIKEY": ""
+    },
+    "pokemon": {
+        "APIKEY": ""
+    },
+    "rname": {
+        "APIKEY": "mi451266190"
+    },
+    "sing1": {
+        "API_KEY": "KeyTest_3Days"
+    },
+    "sortword": {
+        "APIKEY": ""
+    },
+    "soundcloud": {
+        "SOUNDCLOUD_API": "2uVsdjJYhZBsWRcsjxJPynPAgR1zE9OKJhKxydA41abYJfx08J"
+    },
+    "surprise": {
+        "log": true,
+        "out": "",
+        "kickAll": true,
+        "delThread": true
+    },
+    "tiktoksearch": {
+        "key": "DuI7QIGh"
+    },
+    "ytbmp4": {
+        "YOUTUBE_API": "AIzaSyDEE1-zZSRVI8lTaQOVsIAQFgL-_BJKvhk"
+    },
+    "sing2": {
+        "YOUTUBE_API": "AIzaSyC4iLJTqxpkRvDYSUnDHkUVAj0H4q5f3GE"
+    },
+    "tiktok": {
+        "API_KEY": "mzkFree_722124509AC10"
+    },
+    "help": {
+        "autoUnsend": "",
+        "delayUnsend": 20
+    },
+    "god": {
         "enable": true
+    },
+    "workv2": {
+        "cooldownTime": 12000000
+    },
+    "help3": {
+        "autoUnsend": true,
+        "delayUnsend": 500
+    },
+    "tuongtac": {
+        "maxColumn": 10
+    },
+    "boctham": {
+        "cooldownTime": ""
+    },
+    "weeklybox": {
+        "cooldownTime": 604800000,
+        "rewardCoin": 14000
+    },
+    "monthly": {
+        "cooldownTime": 2592000000,
+        "rewardCoin": 30000
+    },
+    "hourly": {
+        "cooldownTime": 3600000,
+        "rewardCoin": 2700
+    },
+    "yearlybox": {
+        "cooldownTime": 31536000000,
+        "rewardCoin": 50000000000
+    },
+    "adminNoti": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "token": {
+        "autoUnsend": true,
+        "delayUnsend": 300
+    },
+    "botchk": {
+        "autoUnsend": "",
+        "unsendMessageAfter": 5
+    },
+    "music": {
+        "YOUTUBE_API": "AIzaSyAwzbcb-6QAzgZtl4qf3Z2GhQ3mqrbbMR8"
+    },
+    "alltag": {
+        "maxColumn": 10
     }
 }
